@@ -1,13 +1,13 @@
-# Smart_India_hackathon
-Problem statement : Smart Drip Irrigtion System
+##Smart_India_hackathon
+#Problem statement : Smart Drip Irrigtion System
 
-Ministry name:  Ministry of HRD
+#Ministry name:  Ministry of HRD
 
-Problem code: MHRD3
+#Problem code: MHRD3
 
-Technology stack used: Arduino
+#Technology stack used: Arduino
 
-Team members:
+#Team members:
 
 Rudra Banerjee(leader)
 GitHub id: Rudra-Banerjee Email: rudra.banerjee98@gmail.com
